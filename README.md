@@ -1,1 +1,1 @@
-"# covid_canals_cba" 
+# covid_canals_cba
